@@ -4,8 +4,8 @@ import (
 	"context"
 	"runtime"
 
-	"github.com/ThijsKoot/openlineage-go"
-	"github.com/ThijsKoot/openlineage-go/pkg/facets"
+	"github.com/jdardagran/openlineage-go"
+	"github.com/jdardagran/openlineage-go/pkg/facets"
 	"github.com/go-stack/stack"
 	"github.com/google/uuid"
 )

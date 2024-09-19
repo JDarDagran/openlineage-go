@@ -5,9 +5,9 @@ import (
 	"errors"
 	"log/slog"
 
-	ol "github.com/ThijsKoot/openlineage-go"
-	"github.com/ThijsKoot/openlineage-go/pkg/run"
-	"github.com/ThijsKoot/openlineage-go/pkg/transport"
+	ol "github.com/jdardagran/openlineage-go"
+	"github.com/jdardagran/openlineage-go/pkg/run"
+	"github.com/jdardagran/openlineage-go/pkg/transport"
 )
 
 func ExampleRun() {

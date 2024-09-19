@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ThijsKoot/openlineage-go/pkg/transport"
+	"github.com/jdardagran/openlineage-go/pkg/transport"
 	"github.com/sethvargo/go-envconfig"
 	"gopkg.in/yaml.v3"
 )

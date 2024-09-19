@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/ThijsKoot/openlineage-go/pkg/facets"
+	"github.com/jdardagran/openlineage-go/pkg/facets"
 )
 
 // JobEvent represents an OpenLineage JobEvent.

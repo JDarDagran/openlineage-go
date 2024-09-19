@@ -1,7 +1,7 @@
 package openlineage
 
 import (
-	"github.com/ThijsKoot/openlineage-go/pkg/facets"
+	"github.com/jdardagran/openlineage-go/pkg/facets"
 )
 
 const (

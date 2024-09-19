@@ -4,8 +4,8 @@ import (
 	"context"
 	"log/slog"
 
-	"github.com/ThijsKoot/openlineage-go"
-	"github.com/ThijsKoot/openlineage-go/pkg/transport"
+	"github.com/jdardagran/openlineage-go"
+	"github.com/jdardagran/openlineage-go/pkg/transport"
 	"github.com/google/uuid"
 )
 

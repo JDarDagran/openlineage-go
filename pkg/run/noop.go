@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"context"
 
-	"github.com/ThijsKoot/openlineage-go"
-	"github.com/ThijsKoot/openlineage-go/pkg/facets"
+	"github.com/jdardagran/openlineage-go"
+	"github.com/jdardagran/openlineage-go/pkg/facets"
 	"github.com/google/uuid"
 )
 

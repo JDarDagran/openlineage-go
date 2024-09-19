@@ -3,8 +3,8 @@ package openlineage_test
 import (
 	"testing"
 
-	"github.com/ThijsKoot/openlineage-go"
-	"github.com/ThijsKoot/openlineage-go/pkg/transport"
+	"github.com/jdardagran/openlineage-go"
+	"github.com/jdardagran/openlineage-go/pkg/transport"
 
 	"github.com/go-test/deep"
 )

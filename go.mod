@@ -1,4 +1,4 @@
-module github.com/ThijsKoot/openlineage-go
+module github.com/jdardagran/openlineage-go
 
 go 1.22.4
 

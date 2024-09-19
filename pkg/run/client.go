@@ -3,7 +3,7 @@ package run
 import (
 	"context"
 
-	"github.com/ThijsKoot/openlineage-go"
+	"github.com/jdardagran/openlineage-go"
 	"github.com/google/uuid"
 )
 

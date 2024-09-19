@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/ThijsKoot/openlineage-go/pkg/transport"
+	"github.com/jdardagran/openlineage-go/pkg/transport"
 )
 
 var DefaultClient, _ = NewClient(ClientConfig{

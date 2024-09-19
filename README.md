@@ -1,4 +1,4 @@
-# OpenLineage SDK for Go [![GoDoc](https://img.shields.io/badge/pkg.go.dev-doc-blue)](http://pkg.go.dev/github.com/ThijsKoot/openlineage-go)
+# OpenLineage SDK for Go [![GoDoc](https://img.shields.io/badge/pkg.go.dev-doc-blue)](http://pkg.go.dev/github.com/jdardagran/openlineage-go)
 
 This library contains an SDK for the [OpenLineage project](https://github.com/openlineage/OpenLineage).
 Large parts are generated from the OpenLineage specification.
@@ -8,7 +8,7 @@ The root of the library contains the core OpenLineage types, facets are located 
 ## Installing
 
 ```sh
-go get github.com/ThijsKoot/openlineage-go
+go get github.com/jdardagran/openlineage-go
 ```
 
 ## Usage
